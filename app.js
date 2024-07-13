@@ -96,3 +96,37 @@
 //     console.log("Leap year")
 // }else{console.log("not leap year")}
 
+// var firstName = "Ali";
+// if (firstName === "Fahad") {
+// document.write("Hello Fahad!");
+// }else{
+//     console.log("you are not Fahad")
+// }
+
+
+// var hour = 13
+// var hour = prompt("Ener Hour")
+// if(hour < 18){
+//     console.log("Good Day")
+// }else{
+//     console.log("Good Eevening")
+// }
+
+// var num1 = prompt("Enter your number")
+// var num2 = prompt("Enter your number")
+
+// if(num1 > num2){
+//     console.log("number 1 is greater")
+// }else{
+//     console.log("number 2 is greater")
+// }
+
+// var num = prompt("Enter your number")
+
+// if(num > 0){
+//     console.log("Positve Integer")
+// }else if (num < 0){
+//     console.log("Negative Integer")
+// }else{
+//     console.log("Number is Zero")
+// }
